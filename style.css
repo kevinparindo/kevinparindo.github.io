@@ -1,0 +1,44 @@
+header {
+    background-color: #BDB76B;
+    display: inline;
+    text-align: center;
+}
+
+.jumbotron {
+    font-size: 20px;
+    padding: 5px;
+    background-color: #BDB76B;
+    text-align: center;
+    color: black;
+    margin:0 0 10px 0;
+}
+
+h1 {
+    font-family: 'brilfatce';
+}
+
+.profile img {
+    width: 200px;
+}
+
+aside{
+    float: center;
+    width: auto;
+    padding-left: 20px;
+    text-align: justify;
+    background-color: #BDB76B;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 20px;
+    margin:0 0 10px 0;
+}
+
+footer {
+    padding: 10px;
+    color: black;
+    background-color: #BDB76B;
+    text-align: center;
+    font-weight: bold;
+}
+
